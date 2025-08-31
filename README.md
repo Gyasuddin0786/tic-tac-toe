@@ -46,6 +46,7 @@ git clone https://github.com/Gyasuddin0786/tic-tac-toe
   http://localhost:5173
   ```
 ```base
+### 📂 Project Structure
 tic-tac-toe/
 │── public/            # Static assets
 │── src/
