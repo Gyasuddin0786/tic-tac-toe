@@ -83,7 +83,10 @@ If all 9 cells are filled without a winner → Draw.
 
 📸 Screenshots
 
-(Add screenshots of your game here for better presentation)
+<img width="1867" height="901" alt="image" src="https://github.com/user-attachments/assets/84051965-b513-435b-8544-29a166dbb62b" />
+
+<img width="1847" height="891" alt="image" src="https://github.com/user-attachments/assets/151bc134-6d14-447f-99e9-a1060604c5c9" />
+
 
 🤝 Contributing
 
