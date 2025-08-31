@@ -41,13 +41,12 @@ git clone https://github.com/Gyasuddin0786/tic-tac-toe
   ```
   npm run dev
   ```
-### 5. Now open your browser and go to:
+## 5. Now open your browser and go to:
   ```
   http://localhost:5173
   ```
 
-
-### 📂 Project Structure
+📂 Project Structure
 tic-tac-toe/
 │── public/            # Static assets
 │── src/
