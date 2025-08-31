@@ -45,7 +45,7 @@ git clone https://github.com/Gyasuddin0786/tic-tac-toe
   ```
   http://localhost:5173
   ```
-
+```base
 tic-tac-toe/
 │── public/            # Static assets
 │── src/
@@ -57,6 +57,7 @@ tic-tac-toe/
 │── vite.config.js     # Vite config
 │── package.json       # Project metadata & scripts
 └── README.md          # Project guide
+```
 
 
 📜 Available Scripts
