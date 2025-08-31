@@ -31,7 +31,7 @@ git clone https://github.com/Gyasuddin0786/tic-tac-toe
 ```
 2. Navigate into the project folder
   ```
-  cd tic-tac-toe-vite
+  cd tic-tac-toe
   ```
 
 3. Install dependencies
