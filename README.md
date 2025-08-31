@@ -47,7 +47,7 @@ git clone https://github.com/Gyasuddin0786/tic-tac-toe
   ```
 
 
-📂 Project Structure
+### 📂 Project Structure
 tic-tac-toe/
 │── public/            # Static assets
 │── src/
