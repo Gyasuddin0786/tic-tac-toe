@@ -18,7 +18,6 @@ Anyone can clone and run it locally by following the steps below.
 - **Vite**  
 - **JavaScript (ES6+)**  
 - **CSS (for styling)**  
-
 ---
 
 ## 🛠️ Installation & Setup
@@ -29,20 +28,20 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/Gyasuddin0786/tic-tac-toe
 ```
-2. Navigate into the project folder
+### 2. Navigate into the project folder
   ```
   cd tic-tac-toe
   ```
 
-3. Install dependencies
+### 3. Install dependencies
    ```
    npm install
   ```
-4. Start the development server
+### 4. Start the development server
   ```
   npm run dev
   ```
-5. Now open your browser and go to:
+### 5. Now open your browser and go to:
   ```
   http://localhost:5173
   ```
